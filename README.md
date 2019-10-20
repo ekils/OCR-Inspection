@@ -19,10 +19,10 @@ sh setup-python3-gpu.sh
 
 # 附屬文檔：
 
-word檔案(運行問題與解決方式和模型選用)：https://ppt.cc/fKfX7x
+word檔案(運行問題與解決方式和模型選用)：https://tinyurl.com/y328kcm2
 
 
-csv檔案(repo專案/test/image01~image05 的輸出答案)：https://ppt.cc/fK16ex
+csv檔案(repo專案/test/image01~image05 的輸出答案)：https://tinyurl.com/y2sneaj5
 
 
-Colab連接(運行的Demo code):  https://ppt.cc/fo38ox
+Colab連接(運行的Demo code):  https://tinyurl.com/y5lze37y
