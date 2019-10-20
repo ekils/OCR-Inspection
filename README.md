@@ -17,7 +17,7 @@ sh setup-python3-gpu.sh
 
 
 
-# 附屬文檔：
+# 附屬文檔（本專案附件 亦可以透過下面網址直接查看）：
 
 word檔案(運行問題與解決方式和模型選用)：https://tinyurl.com/y328kcm2
 
